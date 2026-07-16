@@ -1,0 +1,36 @@
+body{
+    background:#f5f7fb;
+}
+
+.register-card{
+    background:#fff;
+    border-radius:15px;
+    padding:35px;
+    box-shadow:0 10px 25px rgba(0,0,0,0.15);
+}
+
+.register-title{
+    color:#f97316;
+    font-weight:bold;
+    text-align:center;
+    margin-bottom:25px;
+}
+
+.form-control,
+.form-select{
+    border-radius:10px;
+    height:48px;
+}
+
+.register-btn{
+    background:#0d6efd;
+    border:none;
+    height:48px;
+    font-size:18px;
+    font-weight:600;
+    border-radius:10px;
+}
+
+.register-btn:hover{
+    background:#084298;
+}
