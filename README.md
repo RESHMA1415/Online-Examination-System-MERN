@@ -6,7 +6,7 @@ The Online Examination System is a MERN Stack web application developed for cond
 
 ---
 
-## ?? Features
+## Features
 
 ### Student Module
 
@@ -29,7 +29,7 @@ The Online Examination System is a MERN Stack web application developed for cond
 
 ---
 
-## ?? Technology Stack
+## Technology Stack
 
 ### Frontend
 
@@ -53,17 +53,17 @@ The Online Examination System is a MERN Stack web application developed for cond
 
 ---
 
-## ?? Project Structure
+##  Project Structure
 
 OnlineExamSystem
-¦
+Â¦
 +-- client
-¦
+Â¦
 +-- server
 
 ---
 
-## ? Installation
+##  Installation
 
 ### Clone Repository
 
@@ -89,7 +89,7 @@ npm run dev
 
 ---
 
-## ?? Screenshots
+## Screenshots
 
 (Add screenshots here)
 
