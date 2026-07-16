@@ -1,6 +1,6 @@
 # Online Examination System (MERN Stack)
 
-## ?? Project Description
+##  Project Description
 
 The Online Examination System is a MERN Stack web application developed for conducting online examinations. It provides separate modules for Students and Administrators.
 
@@ -107,7 +107,7 @@ npm run dev
 
 ---
 
-## ????? Developed By
+##  Developed By
 
 **Reshma**
 
